@@ -1,2 +1,0 @@
-# Kabir
-Web Creator
